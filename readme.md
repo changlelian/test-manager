@@ -306,6 +306,5 @@
 
 # 感谢支持
 创作不易，感谢您的认可。技术交流请联系：微信 UTF823
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/26188759/1770621393453-39c3e0e0-8f3b-4e36-8029-928c10e22ee7.png)
-![](https://www.yuque.com/g/gzicreate/dl8mh5/myice7y7cgfz6fba/collaborator/join?token=Eygio3GVPYnjIYym&source=doc_collaborator# 《测试用例管理平台系统设计》)
+
+https://www.yuque.com/g/gzicreate/dl8mh5/myice7y7cgfz6fba/collaborator/join?token=Eygio3GVPYnjIYym&source=doc_collaborator# 《测试用例管理平台系统设计》
