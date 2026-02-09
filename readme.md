@@ -305,6 +305,6 @@
 ![](https://cdn.nlark.com/yuque/0/2026/png/26188759/1770620179248-754c903b-051a-4728-8c35-e920df8a28ea.png)
 
 # 感谢支持
-创作不易，感谢您的认可。技术交流请联系：微信 UTF823
+创作不易，感谢您的认可。协助部署系统+技术交流请联系：微信 UTF823
 
 https://www.yuque.com/g/gzicreate/dl8mh5/myice7y7cgfz6fba/collaborator/join?token=Eygio3GVPYnjIYym&source=doc_collaborator# 《测试用例管理平台系统设计》
